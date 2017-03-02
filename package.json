@@ -31,5 +31,6 @@
   "license": "MIT",
   "engines": {
     "node": ">=5.0"
-  }
+  },
+  "homepage": "http://damianmcnulty.github.io/edition-node-gulp/public"
 }
